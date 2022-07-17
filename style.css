@@ -1,0 +1,148 @@
+body{
+    margin: 0;
+ 
+}
+.mid-banner{
+    background-image: url(images/11-35-26-donation1.jpg);
+    background-repeat:no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    height: 550px;
+
+}
+#first-top{
+    
+    padding-top: 12%;
+    font-size: 3em;
+    color: white;
+    font-weight: 800;
+}   
+#second-top{
+    
+    color:white;   
+}
+.link-button{
+    background-color:tomato;
+    padding: 13px 25px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;  
+    
+}
+.center-item{
+    text-align: center;
+    
+}
+
+.mid-solid{
+    border-style: solid;
+    padding: 2% 0.5%;
+    background-color:rgba(247, 155, 139, 0.849);
+    
+
+}
+.paragraph{
+    padding-bottom: 3%;
+    text-align: center;
+      
+}
+hr{
+    width: 50%;
+    text-align: center;
+    margin-bottom: 3%;
+    
+}
+.head-top{
+    font-size: 2.5em;
+    margin-top: 8%;
+    text-align: center;
+}
+.display{
+    display: flex;
+    margin-top: 3%;
+    margin-left: 15%;
+
+}
+
+#half-width{
+    padding-top: 120px;
+    background-image: url(images/11-26-45-food.png);
+    background-repeat: no-repeat;
+    box-shadow: 10px 10px 10px 40px white;
+    background-color: rgb(222, 235, 235);
+    background-position: 10px 75px;   
+    height:200px;
+    width: 350px;
+    padding-left: 15px;
+    text-align: justify;
+
+    
+    
+    
+}
+#full-width{
+    background-image: url(images/11-27-06-shelter.png);
+    background-repeat: no-repeat;
+    box-shadow: 10px 10px 40px white;
+    background-color:rgb(250, 211, 217);
+    background-position:10px 75px;
+    height: 200px;
+    width: 350px;
+    margin-left: 25px;
+    padding-top: 120px;
+    padding-left: 15px;
+    text-align: justify;
+    
+    
+}
+#first-width{
+    background-image: url(images/11-24-21-Frame-1.png);
+    background-repeat: no-repeat;
+    box-shadow: 10px 10px 40px white;
+    background-color: rgb(248, 231, 210);
+    background-position: 10px 75px;
+    height: 200px;
+    width: 350px;
+    margin-left: 25px;
+    padding-top: 120px;
+    padding-left: 15px;
+    text-align: justify;
+    
+
+}
+.full-box{
+    text-align:center;
+    box-shadow: 10px 10px 10px white;
+    background-color: rgb(255, 239, 206);
+    height: 140px;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-top: 7%;
+   
+}
+   .link-email{
+    background-color:white;
+    padding: 13px 25px;
+    border-radius: 3px;
+    text-decoration: none;
+    color: black;  
+
+   } 
+
+
+
+.footer-foot{
+    background-color: black;
+    box-shadow: 10px 10px 10px black;
+    color: tomato;
+    height: 130px;
+    margin-top: 10%;
+    padding-top: 3%;
+    text-align: center;
+}
+#last-footer{
+    color: white;
+}
+
+
+ 
